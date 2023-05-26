@@ -1,0 +1,3 @@
+Demostrar que SRT tiene el mejor throughput
+
+Thorughput: la cantidad de procesos que termina por una unidad de tiempo

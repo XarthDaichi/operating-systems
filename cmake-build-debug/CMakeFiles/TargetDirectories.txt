@@ -1,0 +1,6 @@
+/home/xarthy/operating-systems/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/xarthy/operating-systems/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/xarthy/operating-systems/cmake-build-debug/Project1/CMakeFiles/operating_systems_run.dir
+/home/xarthy/operating-systems/cmake-build-debug/Project1/CMakeFiles/operating_systems_lib.dir
+/home/xarthy/operating-systems/cmake-build-debug/Project1/CMakeFiles/edit_cache.dir
+/home/xarthy/operating-systems/cmake-build-debug/Project1/CMakeFiles/rebuild_cache.dir

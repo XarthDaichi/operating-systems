@@ -1,0 +1,91 @@
+\documentclass[10pt, article, natbib]{IEEEtran}
+\IEEEoverridecommandlockouts
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{fancyhdr}
+\usepackage{mathtools}
+\usepackage{tikz}
+
+\pagestyle{fancy}
+\fancyhf{Universidad Nacional de Costa Rica}
+\rhead{\thepage}
+\lhead{Proyecto \# 1}
+\rfoot{EIF-212 Sistemas Operativos}
+\lfoot{I-2023}
+
+\def\changemargin#1#2{\list{}{\rightmargin#2\leftmargin#1}\item[]}
+\let\endchangemargin=\endlist
+
+\DeclarePairedDelimiter\ceil{\lceil}{\rceil}
+\DeclarePairedDelimiter\floor{\lfloor}{\rfloor}
+\makeatletter
+\renewcommand*\l@section{\@dottedtocline{1}{1.5em}{2.3em}}
+\makeatother
+\begin{document}
+
+\begin{titlepage}
+	\includegraphics[width=0.2\textwidth]{./logo-UNA blanco.png}      
+   	\begin{changemargin}{4.5cm}{0cm}
+       	\textbf{\Huge Contando Bytes}
+
+       	\vspace{0.2cm}
+       	\LARGE Proyecto \# 1
+            
+       	\vspace{3cm}
+		\Large
+       	Jorge Durán Campos \\ 
+       	Luis Antonio Montes de Oca Ruiz \\ 
+       	Diego Quirós Artiñano \\ 
+
+       	\vspace{3cm}
+       
+		EIF-212 Sistemas Operativos \\
+       	Profesor Eddy Ramirez Jiménez \\
+		       	
+       	\vspace{3cm}
+       	\today
+	\end{changemargin}
+\end{titlepage}
+
+\onecolumn
+% Índices
+\pagenumbering{roman}
+    % Contenido
+    \renewcommand{\contentsname}{\large Índice \\ \hrulefill}
+\tableofcontents
+\setcounter{tocdepth}{2}
+\newpage
+%     Figuras
+ \renewcommand{\listfigurename}{\large Índice de fíguras \\ \hrulefill}
+ \listoffigures
+ \newpage
+     % Tablas
+ \renewcommand{\listtablename}{\large Índice de tablas \\ \hrulefill}
+ \listoftables
+ \newpage
+
+% Cuerpo
+\pagenumbering{arabic}
+
+\section{Resumen Ejecutivo}
+
+\newpage
+\twocolumn
+\section{Introducción}
+
+\section{Marco teórico}
+
+\section{Descripción de la solución}
+
+\section{Resultados de pruebas}
+
+\section{Conclusiones}
+
+\section{Aprendizajes}
+
+\newpage
+\onecolumn
+\bibliographystyle{ieeetr} 
+\bibliography{ref.bib}
+
+\end{document}

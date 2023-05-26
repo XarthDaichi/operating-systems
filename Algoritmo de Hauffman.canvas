@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"fff2bcaf084f9a4c","x":-300,"y":-420,"width":325,"height":110,"type":"text","text":"**Frase:** y si ella no es el amor de mi vida, sé que no me equivoqué de amor, debí equivocarme de vida"},
+		{"id":"927b068436b77922","x":-580,"y":-240,"width":80,"height":60,"type":"text","text":"y:1"},
+		{"type":"text","text":"b:1","id":"00844e62378803b5","x":-460,"y":-240,"width":80,"height":60},
+		{"type":"text","text":"n:2","id":"bb16e6fc5bf9eddc","x":-340,"y":-240,"width":80,"height":60},
+		{"type":"text","text":",:2","id":"eddbec3acdac9932","x":-217,"y":-240,"width":80,"height":60},
+		{"type":"text","text":"b:1","id":"fc05ed7287a8acaf","x":-100,"y":-240,"width":80,"height":60}
+	],
+	"edges":[]
+}

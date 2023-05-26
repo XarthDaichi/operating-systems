@@ -1,0 +1,47 @@
+\documentclass[10pt, article, natbib]{IEEEtran}
+\IEEEoverridecommandlockouts
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath}
+\usepackage{fancyhdr}
+\usepackage{mathtools}
+\usepackage{tikz}
+
+\pagestyle{fancy}
+\fancyhf{Universidad Nacional de Costa Rica}
+\rhead{\thepage}
+\lhead{Tarea: Anomalía de Belady}
+\rfoot{EIF-212 Sistemas Operativos}
+\lfoot{I-2023}
+
+\def\changemargin#1#2{\list{}{\rightmargin#2\leftmargin#1}\item[]}
+\let\endchangemargin=\endlist
+
+\DeclarePairedDelimiter\ceil{\lceil}{\rceil}
+\DeclarePairedDelimiter\floor{\lfloor}{\rfloor}
+\makeatletter
+\renewcommand*\l@section{\@dottedtocline{1}{1.5em}{2.3em}}
+\makeatother
+
+\onecolumn
+\begin{document}
+
+Estudiante: Diego Quirós Artiñano
+
+\textbf{Tarea: Demostrar que la Anomalía de Belady ocurre solo con FIFO.} \\
+
+La Amonalía de Belady ocurre cuando con mayor cantidad de marcos de paginación ocurren más page faults. Esto sabemos que ocurre en el algoritmo de paginación FIFO (first in first out).\\
+
+\[ P: \text{Se utiliza el algoritmo FIFO}\]
+\[Q: \text{Ocurre la anomalía de Belady} \]
+Sabiendo que la Anomalía de Belady ocurre cuando se utiliza FIFO, entonces.
+\[P \implies Q\]
+
+Además sabemos que si esto ocurre entonces
+\[\neg Q \implies \neg P\]
+
+Lo que significa que si no ocurre la anomalía de Belady entonces no se utilizó FIFO
+
+
+\end{document}

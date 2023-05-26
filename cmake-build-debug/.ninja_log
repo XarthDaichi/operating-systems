@@ -1,0 +1,11 @@
+# ninja log v5
+0	18	1680231882769566451	testing_environment/CMakeFiles/operating_systems_run.dir/examenII.c.o	42eddf9bdaf360ad
+0	23	1680229421436920852	testing_environment/CMakeFiles/operating_systems_run.dir/examen.c.o	f084407982cdca3b
+0	17	1680226596656329032	testing_environment/CMakeFiles/operating_systems_run.dir/ordenamiento.c.o	6d7c07a8ae93b55f
+0	24	1680233831842086755	testing_environment/CMakeFiles/operating_systems_run.dir/Quirós_Artiñano_Diego_Primer_Examen_Parcial_I.c.o	78c3076ee8751368
+19	31	1680235547449710074	testing_environment/operating_systems_run	9525e7976ac9a80a
+0	19	1680235547436376652	testing_environment/CMakeFiles/operating_systems_run.dir/Quirós_Artiñano_Diego_Primer_Examen_Parcial_II.c.o	b2e128378160645f
+0	30	1681416969825944679	Project1/CMakeFiles/operating_systems_run.dir/programs/project1v1.c.o	a1dde0e77156db70
+0	31	1681416969825944679	Project1/CMakeFiles/operating_systems_run.dir/project1.c.o	fbfa7521640fd077
+0	31	1681416969825944679	Project1/CMakeFiles/operating_systems_run.dir/programs/project1test.c.o	defbfe5f2afda036
+0	4	0	clean	4b08f54946cbef5d
