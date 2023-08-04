@@ -1,0 +1,245 @@
+Altura: 13
+Anchura: 24
+Cantidad de bytes: 80
+Total de frecuencia: 7506
+Frecuencia de 47 : 1
+Frecuencia de 51 : 1
+Frecuencia de 59 : 1
+Frecuencia de 71 : 1
+Frecuencia de 74 : 1
+Frecuencia de 89 : 1
+Frecuencia de 137 : 1
+Frecuencia de 177 : 1
+Frecuencia de 45 : 2
+Frecuencia de 53 : 2
+Frecuencia de 54 : 2
+Frecuencia de 57 : 2
+Frecuencia de 81 : 2
+Frecuencia de 141 : 2
+Frecuencia de 66 : 3
+Frecuencia de 84 : 3
+Frecuencia de 91 : 3
+Frecuencia de 93 : 3
+Frecuencia de 77 : 4
+Frecuencia de 37 : 5
+Frecuencia de 49 : 5
+Frecuencia de 50 : 5
+Frecuencia de 70 : 5
+Frecuencia de 119 : 5
+Frecuencia de 186 : 5
+Frecuencia de 42 : 6
+Frecuencia de 68 : 6
+Frecuencia de 82 : 6
+Frecuencia de 85 : 6
+Frecuencia de 40 : 7
+Frecuencia de 41 : 7
+Frecuencia de 48 : 7
+Frecuencia de 58 : 7
+Frecuencia de 73 : 7
+Frecuencia de 78 : 7
+Frecuencia de 169 : 7
+Frecuencia de 76 : 8
+Frecuencia de 79 : 8
+Frecuencia de 56 : 9
+Frecuencia de 80 : 10
+Frecuencia de 65 : 11
+Frecuencia de 107 : 11
+Frecuencia de 120 : 11
+Frecuencia de 122 : 14
+Frecuencia de 83 : 15
+Frecuencia de 106 : 15
+Frecuencia de 69 : 18
+Frecuencia de 104 : 20
+Frecuencia de 67 : 22
+Frecuencia de 113 : 27
+Frecuencia de 121 : 29
+Frecuencia de 173 : 31
+Frecuencia de 44 : 35
+Frecuencia de 46 : 39
+Frecuencia de 102 : 39
+Frecuencia de 123 : 42
+Frecuencia de 125 : 42
+Frecuencia de 118 : 47
+Frecuencia de 161 : 49
+Frecuencia de 179 : 51
+Frecuencia de 98 : 62
+Frecuencia de 103 : 63
+Frecuencia de 10 : 91
+Frecuencia de 92 : 92
+Frecuencia de 109 : 141
+Frecuencia de 195 : 147
+Frecuencia de 112 : 169
+Frecuencia de 117 : 210
+Frecuencia de 99 : 273
+Frecuencia de 108 : 294
+Frecuencia de 100 : 300
+Frecuencia de 110 : 380
+Frecuencia de 116 : 391
+Frecuencia de 111 : 403
+Frecuencia de 114 : 410
+Frecuencia de 115 : 436
+Frecuencia de 105 : 442
+Frecuencia de 97 : 673
+Frecuencia de 101 : 771
+Frecuencia de 32 : 1016
+Total de nodos: 159
+Arbol: 
+	7506
+	|_>3337
+		|_>1527
+			|_>756
+				|_>376
+					|_>183
+						|_>10:91
+						|_>92:92
+					|_>193
+						|_>93
+							|_>46
+								|_>22
+									|_>107:11
+									|_>120:11
+								|_>24
+									|_>12
+										|_>42:6
+										|_>68:6
+									|_>12
+										|_>82:6
+										|_>85:6
+							|_>118:47
+						|_>100
+							|_>161:49
+							|_>179:51
+				|_>110:380
+			|_>101:771
+		|_>1810
+			|_>794
+				|_>116:391
+				|_>111:403
+			|_>32:1016
+	|_>4169
+		|_>1729
+			|_>846
+				|_>114:410
+				|_>115:436
+			|_>883
+				|_>441
+					|_>117:210
+					|_>231
+						|_>110
+							|_>53
+								|_>26
+									|_>12
+										|_>6
+											|_>66:3
+											|_>84:3
+										|_>6
+											|_>91:3
+											|_>93:3
+									|_>122:14
+								|_>113:27
+							|_>57
+								|_>28
+									|_>14
+										|_>40:7
+										|_>41:7
+									|_>14
+										|_>48:7
+										|_>58:7
+								|_>121:29
+						|_>121
+							|_>59
+								|_>29
+									|_>14
+										|_>73:7
+										|_>78:7
+									|_>83:15
+								|_>30
+									|_>106:15
+									|_>15
+										|_>169:7
+										|_>76:8
+							|_>98:62
+				|_>105:442
+		|_>2440
+			|_>1131
+				|_>540
+					|_>267
+						|_>126
+							|_>103:63
+							|_>63
+								|_>173:31
+								|_>32
+									|_>16
+										|_>79:8
+										|_>8
+											|_>77:4
+											|_>4
+												|_>45:2
+												|_>53:2
+									|_>16
+										|_>8
+											|_>4
+												|_>54:2
+												|_>57:2
+											|_>4
+												|_>81:2
+												|_>141:2
+										|_>8
+											|_>4
+												|_>2
+													|_>47:1
+													|_>51:1
+												|_>2
+													|_>59:1
+													|_>71:1
+											|_>4
+												|_>2
+													|_>74:1
+													|_>89:1
+												|_>2
+													|_>137:1
+													|_>177:1
+						|_>109:141
+					|_>99:273
+				|_>591
+					|_>108:294
+					|_>297
+						|_>195:147
+						|_>150
+							|_>72
+								|_>44:35
+								|_>37
+									|_>69:18
+									|_>19
+										|_>56:9
+										|_>80:10
+							|_>78
+								|_>46:39
+								|_>102:39
+			|_>1309
+				|_>636
+					|_>100:300
+					|_>336
+						|_>167
+							|_>82
+								|_>40
+									|_>104:20
+									|_>20
+										|_>10
+											|_>37:5
+											|_>49:5
+										|_>10
+											|_>50:5
+											|_>70:5
+								|_>123:42
+							|_>85
+								|_>125:42
+								|_>43
+									|_>21
+										|_>10
+											|_>119:5
+											|_>186:5
+										|_>65:11
+									|_>67:22
+						|_>112:169
+				|_>97:673

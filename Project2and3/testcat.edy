@@ -1,0 +1,169 @@
+Altura: 13
+Anchura: 16
+Cantidad de bytes: 54
+Total de frecuencia: 7350
+Frecuencia de ' : 1
+Frecuencia de / : 1
+Frecuencia de E : 1
+Frecuencia de G : 1
+Frecuencia de X : 1
+Frecuencia de j : 2
+Frecuencia de - : 5
+Frecuencia de F : 5
+Frecuencia de M : 6
+Frecuencia de x : 6
+Frecuencia de P : 9
+Frecuencia de U : 9
+Frecuencia de D : 11
+Frecuencia de C : 13
+Frecuencia de ? : 14
+Frecuencia de B : 14
+Frecuencia de v : 15
+Frecuencia de Y : 17
+Frecuencia de L : 18
+Frecuencia de N : 30
+Frecuencia de H : 32
+Frecuencia de O : 39
+Frecuencia de W : 39
+Frecuencia de S : 43
+Frecuencia de b : 46
+Frecuencia de A : 57
+Frecuencia de I : 70
+Frecuencia de c : 70
+Frecuencia de p : 70
+Frecuencia de f : 74
+Frecuencia de g : 77
+Frecuencia de , : 78
+Frecuencia de T : 89
+Frecuencia de k : 95
+Frecuencia de m : 95
+Frecuencia de r : 97
+Frecuencia de y : 97
+Frecuencia de " : 108
+Frecuencia de ! : 116
+Frecuencia de . : 131
+Frecuencia de u : 160
+Frecuencia de w : 167
+Frecuencia de l : 207
+Frecuencia de d : 231
+Frecuencia de s : 270
+Frecuencia de 
+ : 308
+Frecuencia de i : 316
+Frecuencia de n : 329
+Frecuencia de a : 405
+Frecuencia de h : 462
+Frecuencia de e : 465
+Frecuencia de o : 470
+Frecuencia de t : 538
+Frecuencia de   : 1320
+Total de nodos: 107
+Arbol: 
+	7350
+	|_>3406
+		|_>1951
+			|_>631
+				|_>315
+					|_>155
+						|_>g:77
+						|_>,:78
+					|_>u:160
+				|_>i:316
+			|_> :1320
+		|_>1455
+			|_>667
+				|_>n:329
+				|_>338
+					|_>w:167
+					|_>171
+						|_>82
+							|_>W:39
+							|_>S:43
+						|_>T:89
+			|_>788
+				|_>383
+					|_>190
+						|_>k:95
+						|_>m:95
+					|_>193
+						|_>96
+							|_>b:46
+							|_>50
+								|_>23
+									|_>D:11
+									|_>12
+										|_>M:6
+										|_>x:6
+								|_>27
+									|_>C:13
+									|_>?:14
+						|_>r:97
+				|_>a:405
+	|_>3944
+		|_>1802
+			|_>874
+				|_>412
+					|_>205
+						|_>y:97
+						|_>":108
+					|_>l:207
+				|_>h:462
+			|_>928
+				|_>463
+					|_>d:231
+					|_>232
+						|_>!:116
+						|_>116
+							|_>A:57
+							|_>59
+								|_>29
+									|_>B:14
+									|_>v:15
+								|_>N:30
+				|_>e:465
+		|_>2142
+			|_>1006
+				|_>o:470
+				|_>536
+					|_>266
+						|_>.:131
+						|_>135
+							|_>65
+								|_>H:32
+								|_>33
+									|_>16
+										|_>7
+											|_>3
+												|_>X:1
+												|_>j:2
+											|_>4
+												|_>2
+													|_>':1
+													|_>/:1
+												|_>2
+													|_>E:1
+													|_>G:1
+										|_>P:9
+									|_>Y:17
+							|_>I:70
+					|_>s:270
+			|_>1136
+				|_>t:538
+				|_>598
+					|_>290
+						|_>140
+							|_>c:70
+							|_>p:70
+						|_>150
+							|_>f:74
+							|_>76
+								|_>37
+									|_>L:18
+									|_>19
+										|_>U:9
+										|_>10
+											|_>-:5
+											|_>F:5
+								|_>O:39
+					|_>
+:308

@@ -1,0 +1,59 @@
+Altura: 6
+Anchura: 10
+Cantidad de bytes: 18
+Total de frecuencia: 92
+Frecuencia de b : 1
+Frecuencia de c : 1
+Frecuencia de y : 1
+Frecuencia de , : 2
+Frecuencia de n : 2
+Frecuencia de l : 3
+Frecuencia de r : 3
+Frecuencia de s : 3
+Frecuencia de q : 4
+Frecuencia de u : 4
+Frecuencia de v : 4
+Frecuencia de m : 5
+Frecuencia de a : 6
+Frecuencia de d : 6
+Frecuencia de o : 6
+Frecuencia de i : 7
+Frecuencia de e : 14
+Frecuencia de   : 20
+Total de nodos: 35
+Arbol: 
+	92
+	|_>39
+		|_>19
+			|_>8
+				|_>v:4
+				|_>4
+					|_>n:2
+					|_>2
+						|_>b:1
+						|_>c:1
+			|_>11
+				|_>m:5
+				|_>a:6
+		|_> :20
+	|_>53
+		|_>24
+			|_>12
+				|_>d:6
+				|_>o:6
+			|_>12
+				|_>6
+					|_>l:3
+					|_>r:3
+				|_>6
+					|_>s:3
+					|_>3
+						|_>y:1
+						|_>,:2
+		|_>29
+			|_>e:14
+			|_>15
+				|_>i:7
+				|_>8
+					|_>q:4
+					|_>u:4
