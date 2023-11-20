@@ -26,19 +26,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "dcb7553de93fcbad",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.7"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,8 +155,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dcb7553de93fcbad",
+  "active": "6c89801d59f9beca",
   "lastOpenFiles": [
+    "project2and3-OS/testshort.una",
+    "project2and3-OS/testshort.table",
+    "project2and3-OS/testshort.edy",
+    "project2and3-OS/tests/testCases/shortestStory.txt",
+    "project2and3-OS/tests/testCases/image8k.JPG",
+    "project2and3-OS/tests/testCases/ejemploClase.txt",
+    "project2and3-OS/tests/testCases/catInHat.txt",
+    "project2and3-OS/tests/testCases/biblia.txt",
+    "project2and3-OS/tests/testCases/a2.txt",
+    "project2and3-OS/tests/testCases/a1.txt",
+    "project2and3-OS/tests/testCases",
+    "project2and3-OS/tests",
+    "project2and3-OS/README.md",
+    "Project2and3/Project2and3/tests/testCases/image8k.JPG",
+    "Project2and3/Project2and3/README.md",
     "Sacar la potencias.md",
     "Manejo de consistencia de eventos en sistemas distribuidos.md",
     "Sincronización en Sistemas Distribuidos.md"
